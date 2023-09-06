@@ -1,0 +1,8 @@
+{
+    "PORT": "7000",
+    "ACCESS_KEY": "SYREN_CLOUD",
+    "ACCESS_ID": 1234567,
+    "ACEESS_PASSWORD": "PRAMOD^123",
+    "ACCESS_CODE": "8299547036",
+    "env": "dev"
+  }
